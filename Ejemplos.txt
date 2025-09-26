@@ -1,0 +1,55 @@
+Sistemas Operativos de Escritorio (PC y laptop)
+
+Windows 10 / Windows 11 – De Microsoft, muy usado en computadoras personales.
+
+macOS – De Apple, usado en computadoras Mac.
+
+Linux Ubuntu – Sistema operativo libre y de código abierto, muy popular en programación.
+
+Fedora – Otra distribución de Linux, orientada a usuarios avanzados.
+
+Debian – Distribución madre de muchas otras (como Ubuntu), muy estable.
+
+Linux Mint – Fácil de usar, ideal para quienes migran de Windows.
+
+Zorin OS – Basado en Ubuntu, con apariencia similar a Windows.
+
+Sistemas Operativos de Dispositivos Móviles
+
+Android – Desarrollado por Google, el más usado en smartphones.
+
+iOS – De Apple, exclusivo para iPhones y iPads.
+
+HarmonyOS – De Huawei, creado como alternativa a Android.
+
+KaiOS – Sistema ligero para teléfonos inteligentes básicos.
+
+Sistemas Operativos de Servidores / Empresariales
+
+Windows Server – Versión de Windows para servidores empresariales.
+
+Red Hat Enterprise Linux (RHEL) – Linux comercial muy usado en empresas.
+
+CentOS – (Ya discontinuado, pero muy usado) derivado de RHEL.
+
+Oracle Linux – Otro sistema empresarial basado en Red Hat.
+
+Ubuntu Server – Versión de Ubuntu para servidores.
+
+Sistemas Operativos de Tiempo Real (RTOS) (usados en dispositivos electrónicos)
+
+FreeRTOS
+
+VxWorks
+
+RTEMS
+
+QNX – Muy usado en automóviles y sistemas industriales.
+
+Otros sistemas más curiosos o históricos
+
+MS-DOS – Antiguo sistema de Microsoft, solo de línea de comandos.
+
+AmigaOS – De las computadoras Amiga en los años 80 y 90.
+
+BeOS / Haiku – Sistemas operativos experimentales
