@@ -1,0 +1,79 @@
+¿Qué es?
+
+El desarrollo de sistemas operativos (SO) es el proceso de diseñar, programar, implementar y mantener el software fundamental que controla el hardware de una computadora y gestiona la interacción con los programas de usuario.
+
+Un sistema operativo actúa como intermediario entre el hardware y el software de aplicación.
+
+
+¿Para qué sirve?
+
+El desarrollo de un SO busca:
+
+Administrar recursos (CPU, memoria, discos, dispositivos de entrada/salida).
+
+Dar servicios básicos a los programas (ejecución de procesos, archivos, seguridad, redes).
+
+Facilitar la interacción con el hardware, evitando que los usuarios tengan que programar directamente en lenguaje máquina.
+
+Proveer una interfaz (línea de comandos o gráfica).
+
+En resumen, un SO hace posible usar una computadora de manera eficiente y amigable.
+
+
+Breve historia y fechas importantes
+
+Década de 1950
+
+Las primeras computadoras no tenían sistemas operativos.
+
+Se usaban programas escritos en código máquina.
+
+
+Década de 1960
+
+Surgen los primeros sistemas multiprogramados y multitarea.
+
+1969: Nace UNIX en los laboratorios Bell (base de Linux y macOS).
+
+
+Década de 1980
+
+Aparecen los sistemas operativos personales:
+
+1981: MS-DOS (Microsoft).
+
+1984: Mac OS (Apple, pionero en interfaces gráficas).
+
+
+Década de 1990
+
+1991: Linus Torvalds crea Linux, libre y de código abierto.
+
+Microsoft lanza Windows 95, con interfaz gráfica y multitarea.
+
+
+Actualidad (2000s en adelante)
+
+Dominio de Windows, Linux y macOS en PCs.
+
+Android (2008) y iOS se consolidan en móviles.
+
+Tendencia hacia sistemas distribuidos, cloud y virtualización.
+
+
+Ejemplos de sistemas operativos conocidos
+
+PC: Windows, macOS, Linux.
+
+Móviles: Android, iOS.
+
+Especializados: sistemas embebidos, RTOS (para tiempo real en autos, robots, etc.).
+
+
+Importancia del desarrollo de SO
+
+Permite el avance tecnológico (cada nuevo hardware necesita un SO compatible).
+
+Fomenta innovación en seguridad, rendimiento y usabilidad.
+
+Base para la programación, videojuegos, redes y hasta inteligencia artificial.
